@@ -13,10 +13,8 @@ Olá! Sou a **Larissa Barros Fernandes**, uma cientista de dados apaixonada por 
 Atualmente estou começando na área de dados e estou desenvolvendo meus primeiros projetos. Em breve, terei mais para compartilhar!
 
 ### Habilidades Técnicas
-- **Linguagens de Programação**: Python, SQL, R
+- **Linguagens de Programação**: Python, R
 - **Ferramentas de Análise de Dados**: Pandas, NumPy, Matplotlib
-- **Machine Learning**: Scikit-Learn, TensorFlow
-- **Banco de Dados**: MySQL, PostgreSQL
 
 ### Experiência
 - Atuo no mercado de criptomoedas desde 2021, onde desenvolvi um forte interesse por programação e análise de dados.
